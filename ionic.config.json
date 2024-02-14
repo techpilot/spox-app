@@ -1,0 +1,7 @@
+{
+  "name": "spox-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
